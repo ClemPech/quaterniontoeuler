@@ -1,0 +1,2 @@
+-r ci.txt
+towncrier==19.2.0

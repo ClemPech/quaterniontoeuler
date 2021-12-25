@@ -1,0 +1,3 @@
+-r doc-spelling.txt
+-r lint.txt
+-r quat2eul.txt
